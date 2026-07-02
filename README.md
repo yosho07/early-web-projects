@@ -1,6 +1,6 @@
 # HTML & CSS Projects
 
-This repository contains some of my early web development projects created while learning the fundamentals of HTML and CSS.
+This repository contains some of my early web development projects created while learning the fundamentals of HTML and CSS in school.
 
 ## Projects
 

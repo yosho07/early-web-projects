@@ -28,6 +28,14 @@ A static website consisting of **3 webpages** for an online plant nursery. The p
 * HTML5
 * CSS3
 
+## Live Demo
+
+- 🌐 Paralympic Games Website
+  https://yosho07.github.io/early-web-projects/paralympic-games-website/
+
+- 🌿 Online Plant Nursery
+  https://yosho07.github.io/early-web-projects/online-plant-nursery/
+
 ## About
 
 These projects were built as part of my early journey into web development. While they are beginner-level projects, they helped me develop a strong understanding of HTML, CSS, and the structure of multi-page websites.

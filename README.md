@@ -31,8 +31,7 @@ A static website consisting of **3 webpages** for an online plant nursery. The p
 ## Live Demo
 
 - 🌐 Paralympic Games Website
-  https://yosho07.github.io/early-web-projects/paralympic-games-website/
-
+  https://yosho07.github.io/early-web-projects/paralympic-games-website/index.html
 - 🌿 Online Plant Nursery
   https://yosho07.github.io/early-web-projects/online-plant-nursery/
 

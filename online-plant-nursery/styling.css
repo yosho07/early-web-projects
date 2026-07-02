@@ -1,0 +1,45 @@
+body {
+background-color:white;
+}
+marquee {
+	color:white;
+	background:black;
+	 padding-top: 10px;
+    padding-bottom: 10px;
+}
+h1 {
+ margin-top:0px;
+ background-color:#2A6736;
+ text-align:center; 
+ color:white; 
+ font-family:calibiri;
+}
+h2 {
+ margin-top:0px;
+ text-align:center; 
+ color:black; 
+ font-family:arial;
+}
+
+th, td {
+  padding: 15px;
+}
+p {
+font-family: calibiri;
+font-size:150%;
+ color: #2A6736;
+}
+h4 {
+	background-color:#2A6736;
+	color:white;
+}
+
+table {
+border-width:thick;
+border-color:#2A6736;
+border-style: inset;
+border-width:5;
+}
+
+
+
